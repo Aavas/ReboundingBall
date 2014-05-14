@@ -1,7 +1,7 @@
 #ReboundingBall
 ============
 
-Rebounding ball is a small stress relief game developed by Kathmandu University undergraduate students Pravin Bashyal and Aavash Rayamajhi as a miniproject for Computer Graphics.
+Rebounding ball is a small stress relief game developed by Kathmandu University undergraduate students Pravin Bashyal and Avash Rayamajhi as a miniproject for Computer Graphics.
 
 ##Rebounding Ball Instructions
 
