@@ -14,7 +14,7 @@ The ReboundingBall program uses python with the PyOpenGL library and is stored o
     * http://www.python.org/download/
 3. Install PyOpenGL
     * From Terminal:
-        -sudo apt-get install python-opengl
+        - sudo apt-get install python-opengl
     * If you have easy_install:
         - On the command line type: easy_install PyOpenGL.
     * Download PyOpenGL version 3.0.* at http://pypi.python.org/pypi/PyOpenGL
